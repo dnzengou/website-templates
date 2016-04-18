@@ -1,0 +1,197 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<head>
+    <meta charset="utf-8">
+    <title>Welcome to Webhelp Portugal</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Your Styles
+    ================================================== -->
+    <link href="css/style.css" rel="stylesheet" media="screen">
+    <link rel="stylesheet" href="js/twitter/jtwt.css" />
+
+    <!-- Favicons
+    ================================================== -->
+    <link rel="shortcut icon" href="img/icons/favicon.ico">
+    <link rel="apple-touch-icon" href="img/icons/apple-touch-icon.html">
+    <link rel="apple-touch-icon" sizes="72x72" href="img/icons/apple-touch-icon-72x72.html">
+    <link rel="apple-touch-icon" sizes="114x114" href="img/icons/apple-touch-icon-114x114.html">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <link rel="stylesheet" href="css/font-awesome-ie7.css">
+    <![endif]-->
+
+    <!-- styles for IE -->
+    <!--[if lte IE 8]>
+    <link rel="stylesheet" href="css/ie/ie.css" type="text/css" media="screen"/>
+    <![endif]-->
+    <!--[if IE 7 ]>
+    <script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
+    <![endif]-->
+    <!--[if lt IE 9]>
+    <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+    <![endif]-->
+<style>
+
+
+</style>
+</head>
+<body>
+<div id="main_container" class="clearfix">
+    <!--Begin content main-->
+    <section id="content" class="home home_tree">
+        <div class="container-fluid">
+            <div class="row-fluid">
+                <div id="header" class="span12" style="background-image: url('img/line_bk.png');  background-repeat:no-repeat;
+    background-position:0px 0px;">
+                    <div class="wrap">
+
+                        <div class="left_content" >
+                            <ul class="info row-fluid field1" style="  clear: both ">
+
+                                <li id="li_logo" class="box span12 offset0" >
+
+                                </li>
+
+                            </ul>
+                            <div class="into_slider row-fluid field_Double">
+                                <ul class="info row-fluid field2">
+                                    <li class="box span1 offset0 color_one_wh experience ">
+                                        <a href="http://www.webhelp.com/uk/" target="_blank ">
+                                            <span class="sprite sprite-webhelp-png"></span>
+                                            <p class="metro_text">Webhelp Group 
+											<br>Who are we ?</p>
+                                        </a>
+
+                                    </li>
+                                    <li class="box span1 offset0 color_two_wh education">
+                                        <a href="webhelpportugal.php">
+                                            <span class="sprite sprite-webhelp-png"></span>
+                                            <p class="metro_text">Webhelp Portugal<br>Who are we ?</p>
+                                        </a>
+
+                                    </li>
+
+                                </ul>
+                                <ul class="info row-fluid field3">
+                                <li class="box span1 offset0 color_three_wh blog">
+                                    <a href="ourjob.php">
+                                        <span class="sprite sprite-blog-png"></span>
+                                        <p class="metro_text">Our job opportunities</p>
+                                    </a>
+
+                                </li>
+                                    <li class="box span1 offset0 color_four_wh blog">
+                                        <a href="joinus.php">
+                                            <span class="sprite sprite-contact-png" style="width: 65px;
+height: 65px;
+background-position: -228px 0px;"></span>
+                                            <p class="metro_text">Joining us</p>
+                                        </a>
+
+                                    </li>
+
+                                </ul>
+
+                                <div class="content_right">
+                                    <!------------------end carousel bootstrap----------------->
+                                    <div id="myCarousel" class="myCarouselSocial carousel slide">
+                                        <ol class="carousel-indicators">
+                                            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                                            <li data-target="#myCarousel" data-slide-to="1"></li>
+                                            <li data-target="#myCarousel" data-slide-to="2"></li>
+                                            <li data-target="#myCarousel" data-slide-to="3"></li>
+                                            <li data-target="#myCarousel" data-slide-to="4"></li>
+                                        </ol>
+                                        <!-- Carousel items -->
+                                        <div class="carousel-inner">
+                                            <div class="active item"><img src="img/home-slider-horizontal/1.jpg" alt="image horizontal slider"></div>
+                                            <div class="item"><img src="img/home-slider-horizontal/2.jpg" alt="image horizontal slider"></div>
+                                            <div class="item"><img src="img/home-slider-horizontal/3.jpg" alt="image horizontal slider"></div>
+                                            <div class="item"><img src="img/home-slider-horizontal/4.jpg" alt="image horizontal slider"></div>
+                                            <div class="item"><img src="img/home-slider-horizontal/5.jpg" alt="image horizontal slider"></div>
+                                        </div>
+                                        <!-- Carousel nav -->
+                                        <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+                                        <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+                                    </div>
+                                    <!------------------end carousel bootstrap----------------->
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <!------------content slider------------->
+                        <div class="right_content" style="display: none">
+                            <!------------------end carousel bootstrap----------------->
+
+                            <!------------------end carousel bootstrap----------------->
+                        </div>
+	                    <div id="fotter" class="span12" style="padding: 5px">
+		                    <div class="span6"><span style="float: left">2015 Webhelp Portugal. All rights reserved </span></div>
+		                    <div class="span6" style="float: right;">
+							<center>
+								<a href="https://www.youtube.com/user/WebhelpTV" target="_blank"> <img src="img/youtube_circle.png" style="width: 30px !important;"></a>
+				                <a href="https://www.linkedin.com/company/webhelp" target="_blank"><img src="img/linkedin_circle.png" style="width: 30px !important;"></a>
+							</center>
+		                    </div>
+	                    </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <!--End begin content main-->
+</div>
+
+<!-- ======================= JQuery libs =========================== -->
+<!-- Always latest version of jQuery-->
+<script src="js/jquery-1.7.1.js"></script>
+<!--<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.1/jquery-ui.min.js"></script>-->
+<!-- Bootstrap.js-->
+<script src="js/bootstrap.js"></script>
+<!--fUNCTIONS--> 
+<!-- ======================= End JQuery libs =========================== -->
+
+<script>
+
+	if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ){
+		$(".span2").css({
+			height:($(".span2").width()/2 + 40)+"px"
+
+		});
+		$("#header").css('background','none');
+		$("#li_logo").addClass('classLogo');
+
+		$(".myCarouselSocial .item").css({
+			height: ($(".myCarouselSocial .item img").width()/2) +   "px"
+		});
+		$(".navbar").css("background","#2d2d2d");
+
+
+		$("iframe").css("width","110%");
+		$("iframe").css("margin-left","-5%");
+		$("iframe").css("height","900px");
+	}
+
+
+
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-70965063-1', 'auto');
+    ga('send', 'pageview');
+
+</script></body>
+</html>
